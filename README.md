@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-## I'm a Developer !
+## I'm Felipe Amorim !
 - 🔭 I’m currently working as a Full Stack Developer!
+- enthusiast about machine learning and blockchain
 
 <br />
 
@@ -11,9 +12,9 @@
 </p>
 <br />
 
-<p align="center"=>
+<p align="center" >
 	<a href="https://github.com/fexd12/"><img src="https://img.shields.io/github/followers/fexd12.svg?label=GitHub&style=social" alt="GitHub"></a>&nbsp;&nbsp;
-	<a href="https://www.linkedin.com/in/felipe-amorim-de-melo-a88a80158/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn</a>
+	<a href="https://www.linkedin.com/in/felipe-amorim-de-melo-a88a80158/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 		
 <br />
 </p>
