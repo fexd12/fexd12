@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fexd12&label=Profile%20views&color=0e75b6&style=flat" alt="fexd12" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Blockchain**
+- 🌱 I’m currently learning **Machine Learning, Blockchain, Cyber Security**
 
 - 📫 How to reach me **felipe.demelo@hotmail.com**
 
